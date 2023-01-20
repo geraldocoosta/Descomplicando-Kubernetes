@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   labels:
     run: giropops
-  name: giropops
+  name: giropops1
 spec:
   containers:
   - image: nginx
